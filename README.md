@@ -1,1 +1,1 @@
-
+The objective of a MIPS Pipeline processor is to enhance the performance and efficiency of instruction processing in a processor by dividing the execution of instructions into multiple simultaneous stages. Following the conducted analysis, the implementation is carried out in the form of a Fibonacci program.
